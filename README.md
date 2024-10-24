@@ -1,2 +1,0 @@
-# PageantFans
-Modeling page
